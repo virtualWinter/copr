@@ -1,0 +1,2 @@
+# copr
+my fedora copr
